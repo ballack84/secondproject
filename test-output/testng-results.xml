@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="9" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-07T21:07:04 GST" name="Default suite" finished-at="2025-04-07T21:07:08 GST" duration-ms="3781">
+    <groups>
+    </groups>
+    <test started-at="2025-04-07T21:07:04 GST" name="Default test" finished-at="2025-04-07T21:07:08 GST" duration-ms="3781">
+      <class name="standarduser.fifthsessiondemo">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:standarduser.fifthsessiondemo@158a3b2e]" started-at="2025-04-07T21:07:04 GST" name="MySetup" finished-at="2025-04-07T21:07:05 GST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="Login()[pri:1, instance:standarduser.fifthsessiondemo@158a3b2e]" started-at="2025-04-07T21:07:05 GST" name="Login" finished-at="2025-04-07T21:07:05 GST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="addrandomitem()[pri:2, instance:standarduser.fifthsessiondemo@158a3b2e]" started-at="2025-04-07T21:07:05 GST" name="addrandomitem" finished-at="2025-04-07T21:07:06 GST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addrandomitem -->
+        <test-method signature="checkoutitems()[pri:3, instance:standarduser.fifthsessiondemo@158a3b2e]" started-at="2025-04-07T21:07:06 GST" name="checkoutitems" finished-at="2025-04-07T21:07:08 GST" duration-ms="1935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutitems -->
+        <test-method is-config="true" signature="AfterMyTest()[pri:0, instance:standarduser.fifthsessiondemo@158a3b2e]" started-at="2025-04-07T21:07:08 GST" name="AfterMyTest" finished-at="2025-04-07T21:07:08 GST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMyTest -->
+      </class> <!-- standarduser.fifthsessiondemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
