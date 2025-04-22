@@ -20,7 +20,7 @@ public class MainTestCases {
 	@BeforeTest
 
 	public void MySetup() {
-
+//check the github
 		driver.get(MyWebSite);
 		driver.manage().window().maximize();
 		// driver.manage().window().minimize();
